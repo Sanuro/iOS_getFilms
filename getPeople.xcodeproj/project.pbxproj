@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		091210CC20FD3B65004E8894 /* StarWarsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 091210CB20FD3B65004E8894 /* StarWarsModel.swift */; };
+		091210CE20FD4A8F004E8894 /* FilmTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 091210CD20FD4A8F004E8894 /* FilmTableViewController.swift */; };
 		096ADC2A20FD03850078434C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 096ADC2920FD03850078434C /* AppDelegate.swift */; };
 		096ADC2C20FD03850078434C /* PeopleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 096ADC2B20FD03850078434C /* PeopleViewController.swift */; };
 		096ADC2F20FD03850078434C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 096ADC2D20FD03850078434C /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		091210CB20FD3B65004E8894 /* StarWarsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarWarsModel.swift; sourceTree = "<group>"; };
+		091210CD20FD4A8F004E8894 /* FilmTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmTableViewController.swift; sourceTree = "<group>"; };
 		096ADC2620FD03850078434C /* getPeople.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = getPeople.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		096ADC2920FD03850078434C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		096ADC2B20FD03850078434C /* PeopleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 			children = (
 				096ADC2920FD03850078434C /* AppDelegate.swift */,
 				096ADC2B20FD03850078434C /* PeopleViewController.swift */,
+				091210CD20FD4A8F004E8894 /* FilmTableViewController.swift */,
 				091210CB20FD3B65004E8894 /* StarWarsModel.swift */,
 				096ADC2D20FD03850078434C /* Main.storyboard */,
 				096ADC3320FD03860078434C /* Assets.xcassets */,
@@ -266,6 +269,7 @@
 				096ADC2C20FD03850078434C /* PeopleViewController.swift in Sources */,
 				091210CC20FD3B65004E8894 /* StarWarsModel.swift in Sources */,
 				096ADC2A20FD03850078434C /* AppDelegate.swift in Sources */,
+				091210CE20FD4A8F004E8894 /* FilmTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
